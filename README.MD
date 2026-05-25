@@ -40,6 +40,16 @@ I'm an 18-year-old backend-focused full-stack developer and software entrepreneu
 
 ---
 
+## 📚 Currently Learning & Exploring
+
+I am actively expanding my relational database and data-modeling skills by diving into:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzleorn&logoColor=black" alt="Drizzle ORM" />
+</p>
+
+---
 ## 📫 Connect with me
 
 - **Email:** emanuel.rojas@ponoslabs.com
