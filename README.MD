@@ -40,15 +40,6 @@ I'm an 18-year-old backend-focused full-stack developer and software entrepreneu
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2rojas&show_icons=true&theme=dark&hide_border=true" alt="Emanuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rojas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 📫 Connect with me
 
 - **Email:** emanuel.rojas@ponoslabs.com
