@@ -43,15 +43,14 @@ I'm an 18-year-old backend-focused full-stack developer and software entrepreneu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Emanuel's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2rojas&show_icons=true&theme=dark&hide_border=true" alt="Emanuel's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2rojas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **Email:** emanuel.rojas@ponoslabs.com
 
 *"Wealth consists not in having great possessions, but in having few wants." — Epictetus*
